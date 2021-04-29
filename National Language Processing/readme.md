@@ -1,5 +1,6 @@
 ## 자연어 처리:
- * KoNLPy 라이브러리 사용 <br>
+ * KoNLPy 라이브러리 사용
+ * 음성인식을 통한 전처리는 진행中
  * example: ![Example](https://github.com/py0601/capstone2/blob/main/National%20Language%20Processing/img/1.png)
 
 based on ubuntu
