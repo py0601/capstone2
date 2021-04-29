@@ -1,5 +1,6 @@
 ## 자연어 처리:
  * KoNLPy 라이브러리 사용 <br>
+ * 음성 연결 과정 등 작업 진행中
 
 based on ubuntu
 ```sh
