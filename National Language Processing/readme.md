@@ -10,7 +10,7 @@ $ sudo apt-get install python3-dev; pip3 install konlpy   # Python 3.x
 
 $ sudo apt-get install curl
 $ bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)
-}
+
 ```
 
 more info via [konlypy](https://konlpy.org/ko/v0.4.3/)
