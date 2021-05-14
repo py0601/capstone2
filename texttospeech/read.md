@@ -1,5 +1,3 @@
-google sdk 에서 해야할것
-
 1.google sdk 설치
 
 2. gcloud init
