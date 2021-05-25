@@ -3,4 +3,5 @@
 - 유튜브 영상을 기준으로 절반 정도 만들었는데, 나머지 부분과 저희가 만드는 기능 통합이나 디자인 등 추가해야합니다.
 - 새로운 부분은 계속 업데이트 하겠습니다.
 - 너무 허졉하다 싶으면....새로 만들어야 할수도...
-- [참고사이트](https://www.youtube.com/watch?v=RDR22PPWY8E&list=PL4fpXNDGXCyWXY7Sb_bp9VEENEW_UsG75&index=20)
+- 
+[참고사이트](https://www.youtube.com/watch?v=RDR22PPWY8E&list=PL4fpXNDGXCyWXY7Sb_bp9VEENEW_UsG75&index=20)
